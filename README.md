@@ -3,7 +3,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide: This application serves as a study guide for the prework course material in the U of M Coding Bootcamp. I created this webpage in order to easily refer back to notes and key concepts from the curriculum. This ease of access allows me to refresh myself on the overall concepts explained during the prework course experience. Throughout this process I learned how to create structure for my application using HTML and how to add style to the application using CSS. Furthermore, I worked on a 'script.js' file to add some functionality and logic to my webpage. 
+Use the following questions as a guide: This application serves as a study guide for the prework course material in the U of M Coding Bootcamp. I created this webpage in order to easily refer back to notes and key concepts from the curriculum. This ease of access allows me to refresh myself on the overall concepts explained during the prework course experience. Throughout this process I learned how to create structure for my application using HTML and how to add style to the application using CSS. Furthermore, I worked on a 'script.js' file to add some functionality and logic to my webpage. 
 
 
 ## Installation
